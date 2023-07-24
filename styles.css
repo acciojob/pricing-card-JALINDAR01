@@ -14,3 +14,7 @@ h1{
 p{
 	padding: 70px;
 }
+img{
+	height: auto;
+	width: auto;
+}
