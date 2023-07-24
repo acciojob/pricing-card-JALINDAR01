@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+section{
+	display: block;
+	background-color: green;
+	width: 50%;
+	border: 2px solid black;
+	margin: auto;
+	align-items: center;
+	align-content: center;
+	
+}
+h1{
+	padding: 70px;
+}
+p{
+	padding: 70px;
+}
